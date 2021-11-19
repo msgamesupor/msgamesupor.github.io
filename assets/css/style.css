@@ -182,8 +182,9 @@ body {
 }
 .main-block__text {
 	color: #000;
-	font-size: 20px;
+	font-size: 25px;
 	line-height: 90%;
+	font-weight: 600;
 
 }
 .main-block__image {
